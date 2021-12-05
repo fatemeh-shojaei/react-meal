@@ -1,0 +1,9 @@
+.basket{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:25%;
+    border:1px solid #ccc;
+    border-radius: 30%;
+
+}
