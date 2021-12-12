@@ -1,0 +1,21 @@
+.meal{
+    width:550px;
+    height: 150px;
+    position: absolute;
+    top:200px;
+    left: 380px;
+    background: rgb(68, 68, 68);
+    box-shadow: 5px 5px 10px rgb(27, 27, 27);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:azure;
+ 
+}
+.meal h2{
+    margin-top: 5px;
+}
+.meal p{
+    font-size: 12px;
+    margin-top:0;
+}
